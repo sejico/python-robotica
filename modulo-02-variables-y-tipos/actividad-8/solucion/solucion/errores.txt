@@ -7,3 +7,11 @@ NameError: name 'Pepe' is not defined
 PS C:\Users\SERGIJIMÉNEZCORTÉS\Documents\GitHub> 
 
 el error es que el nombre Pepe no lleva las comillas y no está en str, entonces no lo coge bien, se soluciona poniéndole las comillas.
+
+ & C:\Users\SERGIJIMÉNEZCORTÉS\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/Users/SERGIJIMÉNEZCORTÉS/Documents/GitHub/modulo-02-variables-y-tipos/actividad-8/solucion/depuracion.py
+  File "c:\Users\SERGIJIMÉNEZCORTÉS\Documents\GitHub\modulo-02-variables-y-tipos\actividad-8\solucion\depuracion.py", line 6
+    print("distancia_recibida",distancia_recibida,type (distancia_recibida)
+         ^
+SyntaxError: '(' was never closed
+
+se soluciona poniendo true o false al ser una variable booleana. 
