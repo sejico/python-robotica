@@ -1,0 +1,3 @@
+texto_entero <class 'str'>
+texto_decimal <class 'str'>
+numero <class 'int'>
