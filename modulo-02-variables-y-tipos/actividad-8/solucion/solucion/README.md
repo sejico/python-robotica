@@ -12,3 +12,8 @@ Lo que esperaba es que una vez arreglado el error del nombre salieran todas las 
 Salto error porque había un error en la variable booleana.
 ## POR QUÉ?
 Está pasando porque las variables booleanas son de true o de false y he puesto un si. 
+# ANÁLISIS ERROR 3
+# QUÉ ESPERABA?
+Esperaba que una vez acabado el segundo error funcionase ya.
+# POR QUÉ?
+Porque no se habían cerrado el parentesis del print y no podía poner el mensaje completo
