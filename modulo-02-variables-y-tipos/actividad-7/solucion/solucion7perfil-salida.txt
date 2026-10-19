@@ -1,0 +1,5 @@
+nombre <class 'str'>
+anio <class 'int'>
+altura_cm <class 'float'>
+autonomo <class 'bool'>
+v1.0 <class 'str'>
