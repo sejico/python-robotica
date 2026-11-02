@@ -1,0 +1,3 @@
+10 <class 'int'>
+4 <class 'int'>
+40 <class 'int'>
