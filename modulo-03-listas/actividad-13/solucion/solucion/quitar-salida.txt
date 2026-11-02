@@ -1,0 +1,2 @@
+['ultrasonidos', 'infrarrojos', 'luz', 'temperatura'] <class 'str'>
+['ultrasonidos', 'infrarrojos', 'temperatura'] <class 'str'>
